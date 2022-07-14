@@ -1,0 +1,1 @@
+# Szinesz-objektumorientaltan
